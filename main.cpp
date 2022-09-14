@@ -36,6 +36,7 @@ int main(void)
     // function notation
     cout << "morefixing.operator+(total) = ";
     total.Show();
+    cout << "this is my resposity, use vscode to pull an project";
     cout << endl;
 
     return 0;
