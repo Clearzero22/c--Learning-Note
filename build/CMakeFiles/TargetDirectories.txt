@@ -1,0 +1,3 @@
+D:/mycode/cplusplus/vcode_c++/demo/build/CMakeFiles/main_cmake.dir
+D:/mycode/cplusplus/vcode_c++/demo/build/CMakeFiles/edit_cache.dir
+D:/mycode/cplusplus/vcode_c++/demo/build/CMakeFiles/rebuild_cache.dir
