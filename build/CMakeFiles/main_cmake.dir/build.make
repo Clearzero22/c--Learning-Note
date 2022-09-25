@@ -83,31 +83,31 @@ CMakeFiles/main_cmake.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main_cmake.dir/main.cpp.s"
 	D:\candpython\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\mycode\cplusplus\vcode_c++\demo\main.cpp -o CMakeFiles\main_cmake.dir\main.cpp.s
 
-CMakeFiles/main_cmake.dir/src/mytime2.cpp.obj: CMakeFiles/main_cmake.dir/flags.make
-CMakeFiles/main_cmake.dir/src/mytime2.cpp.obj: CMakeFiles/main_cmake.dir/includes_CXX.rsp
-CMakeFiles/main_cmake.dir/src/mytime2.cpp.obj: D:/mycode/cplusplus/vcode_c++/demo/src/mytime2.cpp
-CMakeFiles/main_cmake.dir/src/mytime2.cpp.obj: CMakeFiles/main_cmake.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\mycode\cplusplus\vcode_c++\demo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main_cmake.dir/src/mytime2.cpp.obj"
-	D:\candpython\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main_cmake.dir/src/mytime2.cpp.obj -MF CMakeFiles\main_cmake.dir\src\mytime2.cpp.obj.d -o CMakeFiles\main_cmake.dir\src\mytime2.cpp.obj -c D:\mycode\cplusplus\vcode_c++\demo\src\mytime2.cpp
+CMakeFiles/main_cmake.dir/src/String1.cpp.obj: CMakeFiles/main_cmake.dir/flags.make
+CMakeFiles/main_cmake.dir/src/String1.cpp.obj: CMakeFiles/main_cmake.dir/includes_CXX.rsp
+CMakeFiles/main_cmake.dir/src/String1.cpp.obj: D:/mycode/cplusplus/vcode_c++/demo/src/String1.cpp
+CMakeFiles/main_cmake.dir/src/String1.cpp.obj: CMakeFiles/main_cmake.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\mycode\cplusplus\vcode_c++\demo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main_cmake.dir/src/String1.cpp.obj"
+	D:\candpython\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main_cmake.dir/src/String1.cpp.obj -MF CMakeFiles\main_cmake.dir\src\String1.cpp.obj.d -o CMakeFiles\main_cmake.dir\src\String1.cpp.obj -c D:\mycode\cplusplus\vcode_c++\demo\src\String1.cpp
 
-CMakeFiles/main_cmake.dir/src/mytime2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main_cmake.dir/src/mytime2.cpp.i"
-	D:\candpython\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\mycode\cplusplus\vcode_c++\demo\src\mytime2.cpp > CMakeFiles\main_cmake.dir\src\mytime2.cpp.i
+CMakeFiles/main_cmake.dir/src/String1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main_cmake.dir/src/String1.cpp.i"
+	D:\candpython\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\mycode\cplusplus\vcode_c++\demo\src\String1.cpp > CMakeFiles\main_cmake.dir\src\String1.cpp.i
 
-CMakeFiles/main_cmake.dir/src/mytime2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main_cmake.dir/src/mytime2.cpp.s"
-	D:\candpython\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\mycode\cplusplus\vcode_c++\demo\src\mytime2.cpp -o CMakeFiles\main_cmake.dir\src\mytime2.cpp.s
+CMakeFiles/main_cmake.dir/src/String1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main_cmake.dir/src/String1.cpp.s"
+	D:\candpython\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\mycode\cplusplus\vcode_c++\demo\src\String1.cpp -o CMakeFiles\main_cmake.dir\src\String1.cpp.s
 
 # Object files for target main_cmake
 main_cmake_OBJECTS = \
 "CMakeFiles/main_cmake.dir/main.cpp.obj" \
-"CMakeFiles/main_cmake.dir/src/mytime2.cpp.obj"
+"CMakeFiles/main_cmake.dir/src/String1.cpp.obj"
 
 # External object files for target main_cmake
 main_cmake_EXTERNAL_OBJECTS =
 
 main_cmake.exe: CMakeFiles/main_cmake.dir/main.cpp.obj
-main_cmake.exe: CMakeFiles/main_cmake.dir/src/mytime2.cpp.obj
+main_cmake.exe: CMakeFiles/main_cmake.dir/src/String1.cpp.obj
 main_cmake.exe: CMakeFiles/main_cmake.dir/build.make
 main_cmake.exe: CMakeFiles/main_cmake.dir/linklibs.rsp
 main_cmake.exe: CMakeFiles/main_cmake.dir/objects1.rsp

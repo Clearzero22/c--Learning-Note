@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/main_cmake.dir/main.cpp.obj"
   "CMakeFiles/main_cmake.dir/main.cpp.obj.d"
-  "CMakeFiles/main_cmake.dir/src/mytime2.cpp.obj"
-  "CMakeFiles/main_cmake.dir/src/mytime2.cpp.obj.d"
+  "CMakeFiles/main_cmake.dir/src/String1.cpp.obj"
+  "CMakeFiles/main_cmake.dir/src/String1.cpp.obj.d"
   "libmain_cmake.dll.a"
   "main_cmake.exe"
   "main_cmake.exe.manifest"

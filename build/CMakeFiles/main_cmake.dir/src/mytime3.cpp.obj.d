@@ -1,5 +1,6 @@
-CMakeFiles/main_cmake.dir/main.cpp.obj: \
- D:\mycode\cplusplus\vcode_c++\demo\main.cpp \
+CMakeFiles/main_cmake.dir/src/mytime3.cpp.obj: \
+ D:\mycode\cplusplus\vcode_c++\demo\src\mytime3.cpp \
+ D:/mycode/cplusplus/vcode_c++/demo/include/mytime3.h \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -115,5 +116,4 @@ CMakeFiles/main_cmake.dir/main.cpp.obj: \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/basic_ios.tcc \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ostream.tcc \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream \
- D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc \
- D:/mycode/cplusplus/vcode_c++/demo/include/String1.h
+ D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc

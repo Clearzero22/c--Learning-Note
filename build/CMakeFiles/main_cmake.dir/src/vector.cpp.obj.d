@@ -1,9 +1,29 @@
-CMakeFiles/main_cmake.dir/main.cpp.obj: \
- D:\mycode\cplusplus\vcode_c++\demo\main.cpp \
- D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
+CMakeFiles/main_cmake.dir/src/vector.cpp.obj: \
+ D:\mycode\cplusplus\vcode_c++\demo\src\vector.cpp \
+ D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cmath \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/cpp_type_traits.h \
+ D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/type_traits.h \
+ D:/candpython/mingw64/x86_64-w64-mingw32/include/math.h \
+ D:/candpython/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/candpython/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/candpython/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/candpython/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/candpython/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/candpython/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ D:/candpython/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/std_abs.h \
+ D:/candpython/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/limits.h \
+ D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h \
+ D:/candpython/mingw64/x86_64-w64-mingw32/include/limits.h \
+ D:/candpython/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/stdlib.h \
+ D:/candpython/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ D:/mycode/cplusplus/vcode_c++/demo/include/vector.h \
+ D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iosfwd \
@@ -12,13 +32,6 @@ CMakeFiles/main_cmake.dir/main.cpp.obj: \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/postypes.h \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cwchar \
  D:/candpython/mingw64/x86_64-w64-mingw32/include/wchar.h \
- D:/candpython/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
- D:/candpython/mingw64/x86_64-w64-mingw32/include/_mingw.h \
- D:/candpython/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
- D:/candpython/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
- D:/candpython/mingw64/x86_64-w64-mingw32/include/vadefs.h \
- D:/candpython/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
- D:/candpython/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
  D:/candpython/mingw64/x86_64-w64-mingw32/include/_mingw_print_push.h \
  D:/candpython/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
  D:/candpython/mingw64/x86_64-w64-mingw32/include/_mingw_stat64.h \
@@ -42,8 +55,6 @@ CMakeFiles/main_cmake.dir/main.cpp.obj: \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/char_traits.h \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/functexcept.h \
- D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/cpp_type_traits.h \
- D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/type_traits.h \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/numeric_traits.h \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_pair.h \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_types.h \
@@ -86,14 +97,6 @@ CMakeFiles/main_cmake.dir/main.cpp.obj: \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/alloc_traits.h \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/string_conversions.h \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdlib \
- D:/candpython/mingw64/x86_64-w64-mingw32/include/stdlib.h \
- D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/limits.h \
- D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h \
- D:/candpython/mingw64/x86_64-w64-mingw32/include/limits.h \
- D:/candpython/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
- D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/stdlib.h \
- D:/candpython/mingw64/x86_64-w64-mingw32/include/malloc.h \
- D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/std_abs.h \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdio \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cerrno \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/functional_hash.h \
@@ -115,5 +118,4 @@ CMakeFiles/main_cmake.dir/main.cpp.obj: \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/basic_ios.tcc \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ostream.tcc \
  D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream \
- D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc \
- D:/mycode/cplusplus/vcode_c++/demo/include/String1.h
+ D:/candpython/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc

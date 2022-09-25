@@ -6,7 +6,7 @@
 },
 {
   "directory": "D:/mycode/cplusplus/vcode_c++/demo/build",
-  "command": "D:\\candpython\\mingw64\\bin\\g++.exe  @CMakeFiles/main_cmake.dir/includes_CXX.rsp -g -o CMakeFiles\\main_cmake.dir\\src\\mytime2.cpp.obj -c D:\\mycode\\cplusplus\\vcode_c++\\demo\\src\\mytime2.cpp",
-  "file": "D:/mycode/cplusplus/vcode_c++/demo/src/mytime2.cpp"
+  "command": "D:\\candpython\\mingw64\\bin\\g++.exe  @CMakeFiles/main_cmake.dir/includes_CXX.rsp -g -o CMakeFiles\\main_cmake.dir\\src\\String1.cpp.obj -c D:\\mycode\\cplusplus\\vcode_c++\\demo\\src\\String1.cpp",
+  "file": "D:/mycode/cplusplus/vcode_c++/demo/src/String1.cpp"
 }
 ]

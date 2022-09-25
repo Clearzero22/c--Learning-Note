@@ -152,29 +152,29 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main_cmake.dir\build.make CMakeFiles/main_cmake.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-src/mytime2.obj: src/mytime2.cpp.obj
-.PHONY : src/mytime2.obj
+src/String1.obj: src/String1.cpp.obj
+.PHONY : src/String1.obj
 
 # target to build an object file
-src/mytime2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main_cmake.dir\build.make CMakeFiles/main_cmake.dir/src/mytime2.cpp.obj
-.PHONY : src/mytime2.cpp.obj
+src/String1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main_cmake.dir\build.make CMakeFiles/main_cmake.dir/src/String1.cpp.obj
+.PHONY : src/String1.cpp.obj
 
-src/mytime2.i: src/mytime2.cpp.i
-.PHONY : src/mytime2.i
+src/String1.i: src/String1.cpp.i
+.PHONY : src/String1.i
 
 # target to preprocess a source file
-src/mytime2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main_cmake.dir\build.make CMakeFiles/main_cmake.dir/src/mytime2.cpp.i
-.PHONY : src/mytime2.cpp.i
+src/String1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main_cmake.dir\build.make CMakeFiles/main_cmake.dir/src/String1.cpp.i
+.PHONY : src/String1.cpp.i
 
-src/mytime2.s: src/mytime2.cpp.s
-.PHONY : src/mytime2.s
+src/String1.s: src/String1.cpp.s
+.PHONY : src/String1.s
 
 # target to generate assembly for a file
-src/mytime2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\main_cmake.dir\build.make CMakeFiles/main_cmake.dir/src/mytime2.cpp.s
-.PHONY : src/mytime2.cpp.s
+src/String1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main_cmake.dir\build.make CMakeFiles/main_cmake.dir/src/String1.cpp.s
+.PHONY : src/String1.cpp.s
 
 # Help Target
 help:
@@ -188,9 +188,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... src/mytime2.obj
-	@echo ... src/mytime2.i
-	@echo ... src/mytime2.s
+	@echo ... src/String1.obj
+	@echo ... src/String1.i
+	@echo ... src/String1.s
 .PHONY : help
 
 

@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.0)
 project(SWAP)
 # 添加头文件目录
 include_directories(include)
-add_executable(main_cmake main.cpp src/mytime2.cpp) 
+add_executable(main_cmake main.cpp src/String1.cpp) 
 # add_executable(main_cmake main.cpp) 
 
 # file(GLOB native_srcs "src/*.cpp")

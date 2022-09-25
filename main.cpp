@@ -1,43 +1,52 @@
 #include <iostream>
-#include "mytime2.h"
+using std::cout;
+#include "String1.h"
 
-int main(void)
+
+void callmel(String1 &);
+void callme2(String1);
+
+int main()
 {
-    using std::cout;
     using std::endl;
-    Time planning;
-    Time coding(2, 40);
-    Time fixing(5, 55);
-    Time total;
+    {
+        cout << "straing an inner block ,\n";
+        String1 headline1("Celery Stalks at Midnight");
+        String1 headline2("Lettude Prey");
+        String1 sports("SPINACH leaves Bowl for Dollars");
 
-    cout << " planning time = ";
-    planning.Show();
-    cout << endl;
+        cout << "headline1: " << headline1 << endl;
+        cout << "headline2: " << headline2 << endl;
+        cout << "sports: " << sports << endl;
+        callmel(headline1);
+        cout << "headline1: " << headline1 << endl;
+        callme2(headline2);
+        cout << "headline2: " << headline2 << endl;
+        cout << "Initialize one object to another: \n";
+        String1 sailor = sports;
+        cout << "sailor: " << sailor << endl;
+        cout << "Assign one object to anthor:\n";
+        String1 knot;
+        knot = headline1;
+        cout << "knot: " << knot << endl;
+        cout << "Exiting the block.\n";
+    
 
-    cout << "coding time = ";
-    coding.Show();
-    cout << endl;
-
-    cout << "fixing time = ";
-    fixing.Show();
-    cout << endl;
-
-    total = coding + fixing;
-    // operator notation
-    cout << " coding + fixing = ";
-    total.Show();
-    cout << endl;
-
-    Time morefixing(3, 29);
-    cout << " more fixing time = ";
-    morefixing.Show();
-    cout << endl;
-    total = morefixing.operator+(total);
-    // function notation
-    cout << "morefixing.operator+(total) = ";
-    total.Show();
-    cout << "this is my resposity, use vscode to pull an project";
-    cout << endl;
-
+    }
+    cout << "End of main()\n";
     return 0;
+
+
+}
+
+void callmel(String1 & rsb)
+{
+    cout << "String1 passed by reference:\n";
+    cout << "     \"" << rsb << "\" \n";
+}
+
+void callme2(String1  sb)
+{
+    cout << "String1 passed by value:\n";
+    cout << "      \"" << sb << "\" \n";
 }
