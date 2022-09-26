@@ -10,9 +10,10 @@ private:
     char * str;         //pointer to String1
     int len;            //length of String1
     static int num_String1s;     //number of objects
-    static const int CINKIM = 80;
+   
 
 public:
+    static const int CINKIM = 80;
     String1(const char * s);
     String1(const String1 & st);
     String1();
